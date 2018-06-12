@@ -1,4 +1,4 @@
-package com.acme.test01.isaaccameron.main;
+package com.acme.test01.isaaccameron.accounts;
 
 public class Main {
     public static void main(String[] arguments) {
